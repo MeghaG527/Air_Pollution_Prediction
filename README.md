@@ -3,10 +3,10 @@
 
 ## Here are a few visual glimpses extracted from the model.
 
-<img src="snapshot1 (2).png" width=95% alt="snapshots">
-<img src="snapshot2.png" width=95% alt="snapshots">
-<img src="snapshot3 (2).png" width=95% alt="snapshots">
-<img src="snapshot4 (2).png" width=95% alt="snapshots">
-<img src="snapshot5 (2).png" width=95% alt="snapshots">
+<img src="Snapshot1 (2).png" width=95% alt="snapshots">
+<img src="Snapshot2.png" width=95% alt="snapshots">
+<img src="Snapshot3 (2).png" width=95% alt="snapshots">
+<img src="Snapshot4 (2).png" width=95% alt="snapshots">
+<img src="Snapshot5 (2).png" width=95% alt="snapshots">
 
 
